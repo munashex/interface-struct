@@ -1,1 +1,2 @@
 Golang interface
+With methods
